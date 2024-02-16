@@ -128,9 +128,12 @@ An in-depth user guide to use advanced features such as LadBalancer, Service and
 
 ## Contact
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+Want to talk to me about your situation? Or just say 'hey!'?
 
-* An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-* Labels that provide the extra 1% needed to get to 1-1 conversion
+Smash the button below.
+
+On the next page, you'll find a bunch of contact links.
+
+Talk with you soon!
 
 <a class="btn btn-primary" href="/contact">Contact Software Shinobi</a>
