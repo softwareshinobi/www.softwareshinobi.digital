@@ -14,11 +14,11 @@ So like... all that's cool. I guess. At least to me, at one point in my life.
 
 <div class="row">
 
-<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">Read My Blog</a>
+<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">My Developer Blog</a>
 
-<a class="btn btn-primary" href="/projects">See My Creations</a>
+<a class="btn btn-primary" href="/projects">My Creations</a>
 
-<a class="btn btn-primary" href="https://links.softwareshinobi.digital">See All My Stuff</a>
+<a class="btn btn-primary" href="https://links.softwareshinobi.digital">My Stuff</a>
 
 </div>
 
@@ -35,7 +35,7 @@ Whether you're looking for a developer who understands your project's needs, wan
 
 Don't forget to check out my projects and resume to see the practical side of my story!
 
-<a class="btn btn-primary" href="/about">Learn Even More</a>
+<a class="btn btn-primary" href="/about">Learn More About Me</a>
 
 ## Experience
 
@@ -53,7 +53,7 @@ Over on my professional experience page, you'll discover a journey of:
 * Mastery of diverse technologies and frameworks, ensuring I can adapt to your specific needs.
 * A proven track record of success, delivering solutions, and creating production ready situations.
 
-<a class="btn btn-primary" href="/resume">Dive into my resume</a>
+<a class="btn btn-primary" href="/resume">Dive into my experience</a>
 
 ## Projects
 
@@ -67,7 +67,7 @@ Head to my project portfolio. There you'll find a treasure of projects showcasin
 * Powerful tools and utilities that automate tasks and streamline your workflow.
 * Innovative prototypes and solutions pushing the boundaries of what's possible.
 
-<a class="btn btn-primary" href="/projects">Explore My Projects</a>
+<a class="btn btn-primary" href="/projects">Explore My Coding Projects</a>
 
 ## Freelancing
 
@@ -102,7 +102,7 @@ Just a few recent articles from my blog, hosted @ [www.softwaredeveloperthings.c
 * [Nervous Newbie to Confident Coder: Preparing for Your Technical Interview Like a Pro](freelancing.md)
 * [Personal Projects: The Secret Weapon for Leveling Up Your Development Skills](freelancing.md)
 
-<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">Visit My Blog</a>
+<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">Read My Developer Blog</a>
 
 ## Contact
 
@@ -114,4 +114,4 @@ On the next page, you'll find a bunch of contact links.
 
 Talk with you soon!
 
-<a class="btn btn-primary" href="/contact">Contact Software Shinobi</a>
+<a class="btn btn-primary" href="/contact">Contact Me</a>
