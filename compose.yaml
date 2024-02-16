@@ -4,14 +4,22 @@ services:
 
         container_name: www.softwareshinobi.digital
 
-        image: titom73/mkdocs
+        image: softwareshinobi/www.softwareshinobi.digital
 
-        volumes:
-        
-            - ${PWD}:/docs/
-            
-            - ${PWD}/mkdocs.yml:/docs/mkdocs.yml
-         
+        restart: always
+
+        build: 
+
+            context: .
+
+            dockerfile: Dockerfile
+
+        environment:
+
+          VIRTUAL_HOST: softwareshinobi.digital
+
+          LETSENCRYPT_HOST: softwareshinobi.digital
+
         ports:
 
-            - 8888:8000
+            - 8880:80

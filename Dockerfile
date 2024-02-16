@@ -1,4 +1,4 @@
-FROM titom73/mkdocs AS MKDOCS_BUILD
+FROM titom73/mkdocs AS mkdocsBuild
 
 MAINTAINER Software Shinobi "troy@softwareshinobi.digital"
 
@@ -10,14 +10,10 @@ WORKDIR /docs
 
 COPY . . 
 
-##COPY mkdocs.yml             mkdocs.yml
-
-##COPY .custom-styling.css    custom-styling.css
-
-##COPY docs-content           docs-content
+##COPY styling.css styling.css
 
 RUN mkdocs build
 
 FROM mengzyou/bbhttpd:1.35
 
-COPY --from=MKDOCS_BUILD --chown=www:www /docs/site /home/www/html
+COPY --from=mkdocsBuild --chown=www:www /docs/site /home/www/html
