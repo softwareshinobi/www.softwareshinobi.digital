@@ -16,7 +16,7 @@ So like... all that's cool. I guess. At least, to me, at one point in my life.
 
 <a class="btn btn-primary" href="https://softwaredeveloperthings.com/">Read My Blog</a>
 
-<a class="btn btn-primary" href="/projects">See My Creations</a>
+<a class="btn btn-primary" href="/docs//projects">See My Creations</a>
 
 <a class="btn btn-primary" href="https://links.softwareshinobi.digital">See All My Stuff</a>
 
@@ -38,7 +38,7 @@ Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we wil
 * An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
 * Labels that provide the extra 1% needed to get to 1-1 conversion
 
-<a class="btn btn-primary" href="/about">Learn Even More</a>
+<a class="btn btn-primary" href="/docs/about">Learn Even More</a>
 
 ## Experience
 
