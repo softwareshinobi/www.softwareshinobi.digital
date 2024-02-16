@@ -6,11 +6,11 @@
 
 I design, code, test, document, and deploy software situations.
 
-* I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing, and things in between all that.
+* I've supported missions and initiatives in the private sector, the US government, contracting, consulting, freelancing, and all that.
 
-* I can comfortably say that the fruits of my software development labor have been consumed by at least 3/4 of a Billion people around the planet.
+* I can comfortably say that the fruits of my software development labor have been consumed by at least 3/4 of a billion people around the planet.
 
-So like... all that's cool. I guess. At least, to me, at one point in my life.
+So like... all that's cool. I guess. At least to me, at one point in my life.
 
 <div class="row">
 
@@ -26,65 +26,62 @@ So like... all that's cool. I guess. At least, to me, at one point in my life.
 
 ## About
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+Whether you're looking for a developer who understands your project's needs, wants to see my process in action, or simply enjoys connecting with fellow tech enthusiasts, this page is your invitation to explore.
 
-###### The awesome features
+###### Beyond The Code
 
-* Compatibility with multiple versions of Docker Compose
-* A conversion matrix that outlines all compatible values and versions
+* Grab your virtual cup of coffee, settle in, and let's get acquainted.
+* Gain a new perspective on the world of development from my side of the table.
 
-###### The awesome features
-
-* An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-* Labels that provide the extra 1% needed to get to 1-1 conversion
+Don't forget to check out my projects and resume to see the practical side of my story!
 
 <a class="btn btn-primary" href="/about">Learn Even More</a>
 
 ## Experience
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+Not all heroes wear capes. Some of us have code.
 
-###### The awesome features
+That sounds poetic, i think. Right?
 
-* Compatibility with multiple versions of Docker Compose
-* A conversion matrix that outlines all compatible values and versions
+but i'm not a hero. although it totally sounds cool.
 
-###### The awesome features
+###### battle tested experience & a diverse skillset
 
-* An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-* Labels that provide the extra 1% needed to get to 1-1 conversion
+Over on my professional experience page, you'll discover a journey of:
 
-<a class="btn btn-primary" href="/resume">See Professional Experience</a>
+* Years of experience tackling complex projects across various industries, from startups to established companies.
+* Mastery of diverse technologies and frameworks, ensuring I can adapt to your specific needs.
+* A proven track record of success, delivering solutions, and creating production ready situations.
+
+<a class="btn btn-primary" href="/resume">Dive into my resume</a>
 
 ## Projects
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+Let me show you what i've been working on.
 
-###### The awesome features
+Head to my project portfolio. There you'll find a treasure of projects showcasing my skills.
 
-* Compatibility with multiple versions of Docker Compose
-* A conversion matrix that outlines all compatible values and versions
+###### what you'll find
 
-###### The awesome features
+* Custom-built websites and apps tailored to your unique needs and brand.
+* Powerful tools and utilities that automate tasks and streamline your workflow.
+* Innovative prototypes and solutions pushing the boundaries of what's possible.
 
-* An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-* Labels that provide the extra 1% needed to get to 1-1 conversion
-
-<a class="btn btn-primary" href="/projects">See My Projects</a>
+<a class="btn btn-primary" href="/projects">Explore My Projects</a>
 
 ## Freelancing
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+Building a website or app can feel like navigating a code jungle without a map.
 
-###### The awesome features
+Issues lurk around every corner, features seem impossible to tame, and frustrations mount as the clocks tick.
 
-* Compatibility with multiple versions of Docker Compose
-* A conversion matrix that outlines all compatible values and versions
+###### Things I Do
 
-###### The awesome features
+web sites / mobile apps / server backends / cloud servers / dashboards / and more.
 
-* An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-* Labels that provide the extra 1% needed to get to 1-1 conversion
+###### Let Me Help
+
+Ready to turn your digital dream into reality? Click the button below to explore my freelancing options and let's chat!
 
 <a class="btn btn-primary" href="/freelancing">Let Me Help You</a>
 
