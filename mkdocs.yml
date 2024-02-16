@@ -1,0 +1,43 @@
+
+docs_dir: docs
+
+site_name: Software Shinobi
+
+nav:
+
+    - Home: 'index.md'   
+    - About: 'about.md'
+    - Experience: 'experience.md'
+    - Projects: 'projects.md'
+    - Freelancing: 'freelancing.md'       
+    - Blog: 'https://softwaredeveloperthings.com'
+    - Contact: 'contact.md'
+
+##    - Shop*: 'https://softwareshinobi.digital/shop/'       
+
+theme:
+
+    ##
+    ## Find More Themes Here:
+    ##
+    ##     https://mkdocs.github.io/mkdocs-bootswatch/
+    ##
+    ## List of theme values:
+    ##
+    ##     mkdocs, readthedocs, material, cerulean, cosmo, 
+    ##     cyborg, darkly, flatly, journal, litera, lumen, lux,
+    ##     materia, minty, pulse, sandstone, simplex, slate, solar,
+    ##     spacelab, superhero, united, yeti 
+    ##
+        
+    name: lux
+    
+    ## 
+    ## you can alternate colors for the navigation header.
+    ##
+    ## Allowed values: primary (the default), dark, and light:
+    ##
+    
+    nav_style: primary
+
+extra_css: [/assets/styling/styling.css]

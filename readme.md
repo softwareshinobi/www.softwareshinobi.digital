@@ -1,2 +1,3 @@
 # www.softwareshinobi.digital
-asdf
+
+shit about me

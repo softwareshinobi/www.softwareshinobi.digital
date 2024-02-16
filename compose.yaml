@@ -1,0 +1,17 @@
+services:
+
+    www.softwareshinobi.digital:
+
+        container_name: www.softwareshinobi.digital
+
+        image: titom73/mkdocs
+
+        volumes:
+        
+            - ${PWD}:/docs/
+            
+            - ${PWD}/mkdocs.yml:/docs/mkdocs.yml
+         
+        ports:
+
+            - 8888:8000
