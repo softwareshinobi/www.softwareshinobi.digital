@@ -1,7 +1,5 @@
 # Software Shinobi
 
-what up tho.
-
 ## i make web sites and mobile apps and server backends.
 
 ![Software Shinobi](/assets/imagery/softwareshinobi.png)
