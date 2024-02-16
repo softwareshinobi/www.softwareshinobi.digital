@@ -90,41 +90,22 @@ Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we wil
 
 ## Blog
 
-Our conversions are not always 1-1 from Docker Compose to Kubernetes, but we will help get you 99% of the way there!
+My full stack software developer blog.
 
-###### creating websites
+Forget the dry lectures and endless jargon.
 
-An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
+Actionable advice from a developer in the trenches.
 
-* [Let Me Help You](freelancing.md)
-* [Let Me Help You](freelancing.md)
+###### from the blog
 
-###### creating mobile apps
+Just a few recent articles from my blog, hosted @ [www.softwaredeveloperthings.com](https://softwaredeveloperthings.com).
 
-An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
+* [Fork, Branch, Merge, Repeat: Common GitHub Workflows For Developers ](freelancing.md)
+* [Testing Like a Spring Ninja: Unit and Integration Testing Techniques](freelancing.md)
+* [Nervous Newbie to Confident Coder: Preparing for Your Technical Interview Like a Pro](freelancing.md)
+* [Personal Projects: The Secret Weapon for Leveling Up Your Development Skills](freelancing.md)
 
-* [Let Me Help You](freelancing.md)
-* [Let Me Help You](freelancing.md)
-
-###### creating server back ends
-
-An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-
-* [Let Me Help You](freelancing.md)
-* [Let Me Help You](freelancing.md)
-
-###### levelling up developer game
-
-An in-depth user guide to use advanced features such as LoadBalancer, Service and TLS
-
-* [Let Me Help You](freelancing.md)
-* [Let Me Help You](freelancing.md)
-
-###### See more developer blogs
-
-An in-depth user guide to use advanced features such as LadBalancer, Service and TLS.
-
-<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">See More Blog Content</a>
+<a class="btn btn-primary" href="https://softwaredeveloperthings.com/">Visit My Blog</a>
 
 ## Contact
 
