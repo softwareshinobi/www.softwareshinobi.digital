@@ -6,9 +6,9 @@ i'm a freelance software developer. i make web sites and mobile apps and server 
 
 I design, code, test, document, and deploy software situations.
 
-* I've supported missions and initiatives in the private sector, the public sector, contracting, consulting, freelancing, and things in between all that.
+* I'm your friendly neighborhood code warrior, ready to slay those development dragons and build solutions that empower your business.
 
-* I can comfortably say that the fruits of my software development labor have been consumed by at least 3/4 of a Billion people around the planet.
+* I'm your friendly neighborhood code warrior, ready to slay those development dragons and build solutions that empower your interests.
 
 So like... all that's cool. I guess. At least, to me, at one point in my life.
 

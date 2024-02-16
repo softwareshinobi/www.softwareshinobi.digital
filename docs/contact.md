@@ -1,40 +1,42 @@
 # Contact Software Shinobi
 
-Got a question about code, collaboration, or conquering the GitHub galaxy?
+On this page is a collection of ways to get ahold of me.
 
 ![Software Shinobi](/assets/imagery/softwareshinobi.png)
 
 I'm here to chat and help you level up your dev game!
 
-Remember, there's no question too big or too small, so don't hesitate to reach out! I'm excited to hear from you and help you on your coding journey.
-
 Here are some options for connecting:
 
-## Email Me:
+## Email Me
 
-Feel free to shoot me a message on my gmail:
+Reach out to me on my gmail:
 
 <a class="btn btn-primary" href="mailto:the.software.shinobi@gmail.com">the.software.shinobi@gmail.com</a>
 
-## Connect On Social:
+## Connect On Social
 
-Connect with me on social media for coding tips, community insights, and a daily dose of dev inspiration!
+Holla at me on the social media!
 
-###### LinkedIn:
+###### linkedin.com:
 
 <a class="btn btn-primary" href="https://linkedin.com/in/softwareshinobi/">LinkedIn</a>
 
-###### Facebook:
+###### facebook.com:
 
 <a class="btn btn-primary" href="https://facebook.com/softwareshinobi/">Facebook</a>
 
-###### Twitter:
+###### twitter.com:
 
 <a class="btn btn-primary" href="https://twitter.com/softwareshinobi/">Twitter</a>
 
 ## See Me In The Coding Streets!
 
-If you're feeling the collaborative spirit, check out my open-source projects on GitHub! Let's build something awesome together.
+Feeling the code itch and craving some dev camaraderie?
+
+Let's team up and build something epic! Check out my open-source projects on GitHub.
+
+Let's fork, tinker, and unleash our coding superpowers.
 
 ###### github.com/softwareshinobi
 
@@ -42,13 +44,11 @@ If you're feeling the collaborative spirit, check out my open-source projects on
 
 ## Use The Contact Form
 
-Remember, there's no question too big or too small, so don't hesitate to reach out! I'm excited to hear from you and help you on your coding journey.
+Remember, there's no question too big or too small.
 
-* Remember, there's no question too big or too small
-* So don't hesitate to reach out! I'm excited to hear from
-* You and help you on your coding journey.
+Don't hesitate to reach out and say what's up!
 
-Remember, there's no question too big or too small, so don't hesitate to reach out! I'm excited to hear from you and help you on your coding journey.
+I'm excited to hear from you and you and your situation.
 
 <!-- Default box -->
 
@@ -59,23 +59,23 @@ Remember, there's no question too big or too small, so don't hesitate to reach o
 <div class="col-12">
 
 <div class="form-group">
-<label for="inputName">Name</label>
-<input type="text" id="inputName" class="form-control">
+<label for="inputName">name</label>
+<input type="text" id="name" class="form-control">
 </div>
 
 <div class="form-group">
-<label for="inputEmail">E-Mail</label>
-<input type="email" id="inputEmail" class="form-control">
+<label for="inputEmail">email</label>
+<input type="email" id="email" class="form-control">
 </div>
 
 <div class="form-group">
-<label for="inputSubject">Subject</label>
-<input type="text" id="inputSubject" class="form-control">
+<label for="inputSubject">subject</label>
+<input type="text" id="subject" class="form-control">
 </div>
 
 <div class="form-group">
-<label for="inputMessage">Message</label>
-<textarea id="inputMessage" class="form-control" rows="4"></textarea>
+<label for="inputMessage">message</label>
+<textarea id="message" class="form-control" rows="4"></textarea>
 </div>
 
 <div class="form-group">
@@ -90,18 +90,28 @@ Remember, there's no question too big or too small, so don't hesitate to reach o
 
 <br/>
 
-If you're feeling the collaborative spirit, check out my open-source projects on GitHub! Let's build something awesome together.
+Your friendly neighborhood developer, slaying development dragons and creating situations that empower you and your interests.
 
 <a class="btn btn-primary" href="#">Contact Software Shinobi</a>
 
 ## Buy Me A Beer
 
-If you're feeling the collaborative spirit, check out my open-source projects on GitHub! Let's build something awesome together.
+Have you enjoyed the fruits of my coding labor? Hopefully the fruit wasn't too buggy, lol.
+
+Should you be inclined, software shinobi enjoys gratitude in the form of ice cold matrix beer.
 
 ###### from my universe to yours
 
-thanks you for the beer. i shall drink beer in good health and with eternal gratitude to you.
+thank you for the beer.
 
-i am thankful that your gratitude will course through my body and give me energy. Isn't that cool?
+i shall drink this beer in good health. and i hope that you bought me this beer in good health.
+
+I am happy that i could help you. It was my intention that i could help you.
+
+so here's a toast to you and a toast to the universe and a toast to being better software developers today than we were yesterday. 
+
+because that is what we wanted. bottoms up!
 
 <a class="btn btn-primary" href="https://shop.softwareshinobi.digital/showing-love/buy-softwareshinobi-a-beer/">Buy Software Shinobi A Beer</a>
+
+thank you.
